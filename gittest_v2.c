@@ -6,7 +6,7 @@
 int main(int argc, char const *argv[])
 {
     int a =256;
-    printf("now is in the hellohello test_version2");
+    printf("allen gittest v2");
 
     return 0;
 }
